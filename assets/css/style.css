@@ -17,6 +17,16 @@ h1 {
     font-size: 3.5rem;
 }
 
+h3 {
+    font-family: 'Montserrat';
+    font-weight: 900;
+
+}
+
+p{
+    color: #8f8f8f;
+}
+
 .container-fluid {
     padding: 3% 15%;
 }
@@ -55,4 +65,27 @@ h1 {
     .title-image {
         width: 60%;
         transform: rotate(25deg);
+    }
+
+    /* features section */
+
+    .features-section {
+        text-align: center;
+        padding: 5%;
+    }
+
+    .features-section h3 {
+        font-weight: 900;
+    }
+
+    .features-section i {
+        color: #ef8172;
+        font-size: 3.5rem;
+        padding-bottom: 20px;
+    }
+
+    
+    .features-section i:hover {
+        color: #ff4c68;
+   
     }
