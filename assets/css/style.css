@@ -115,7 +115,7 @@ p{
     
     .features-section i:hover {
         color: #ff4c68;
-   
+
     }
 
     /* testimonials */
@@ -172,7 +172,6 @@ p{
     background-color: transparent;
     background-image: none;
     border-color: #007bff;
-
 }
 
 .pricing-column {
@@ -199,4 +198,14 @@ p{
 
 .social-media-icon {
     margin: 20px 10px;
+    font-size: 1.5rem;
+    color: #8f8f8f;
+}
+
+.social-media-icon i:hover {
+    color: #ff4c68;
+}
+
+#footer i:hover {
+    color: #ff6700;
 }
